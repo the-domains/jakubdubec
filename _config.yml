@@ -1,4 +1,4 @@
-name: Jakub Dubec
+name: Better Business Bandit
 favicon: null
 layout_spectrum: 0.2803395420778543
 typography_spectrum: 0.8298428340349346
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.6345542434137315
+    - '#341b38'
+    - '#3b79b2'
+    - '#862d3f'
+    - '#e6dc60'
+    - '#c59b73'
+  brandStrength: 0.5625
   lightness: 0.40011503268033266
-  saturation: 0.21717689419165254
-  rhythmicContrast: 0.3326289828401059
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
