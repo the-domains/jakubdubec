@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Jakub Dubec]]></title>
-        <description><![CDATA[Jakub Dubec]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Better Business Bandit]]></title>
+        <description><![CDATA[Better Business Bandit]]></description>
+        <link>http://jakubdubec.name/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 18:46:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Apr 2016 11:40:35 GMT</lastBuildDate>
+        <atom:link href="http://jakubdubec.name/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Earth Care]]></title>
+            <description><![CDATA[<article><h1>Earth Care</h1><p>Permaculture consists of words perma and culture. If you think it is only about gardening, let me show you how permaculture principles can help your business to thrive and make a life full of abundance not only for business owner, but also for employees.</p></article>]]></description>
+            <link>http://jakubdubec.name/earth-care/index.html</link>
+            <guid isPermaLink="false">e4c3766f-ccf8-46fb-8a48-0a7390673ffd</guid>
+            <pubDate>Sat, 16 Apr 2016 11:40:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Unlimited benefits.]]></title>
             <description><![CDATA[<article><h1>Unlimited benefits.</h1><p>Why to adopt sustainable practices in your business? Just because it is cool? Just because it is a buzzword? Nothing above.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/63870dcc36f2f5648c02b5be8901e6ea1b839a44.jpg"></article>]]></description>
-            <link>undefinedlearn-from-nature/index.html</link>
+            <link>http://jakubdubec.name/learn-from-nature/index.html</link>
             <guid isPermaLink="false">e2b649f4-04c5-4fd1-a040-fa84c6cdd111</guid>
             <pubDate>Wed, 24 Feb 2016 18:46:42 GMT</pubDate>
         </item>
