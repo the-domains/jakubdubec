@@ -6,30 +6,32 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Permaculture consists of words perma and culture. If you think it is only about gardening, let me show you how permaculture principles can help your business to thrive and make a life full of abundance not only for business owner, but also for employees.'
-datePublished: '2016-04-16T11:40:34.577Z'
-dateModified: '2016-04-16T11:39:57.014Z'
-title: Earth Care
+datePublished: '2016-04-16T11:42:24.342Z'
+dateModified: '2016-04-16T11:42:04.395Z'
+title: Permaculture in business. Why?
 author: []
+sourcePath: _posts/2016-04-16-earth-care.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-16-earth-care.md
-published: true
 url: earth-care/index.html
 _type: Article
 
 ---
-Permaculture in business. Why?
+# Permaculture in business. Why?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f062d061-ef77-423a-8051-280aae530f71.jpg)
+
+# 
 
 Permaculture consists of words _perma _and _culture_. If you think it is only about gardening, let me show you how permaculture principles can help your business to thrive and make a life full of abundance not only for business owner, but also for employees.
 
 # Earth Care
 
 Every conscious business owner already knows that environment is very important - environment where the business lives - Earth, but also more intangible environments, such as labour market and trade market.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f062d061-ef77-423a-8051-280aae530f71.jpg)
 
 If you are not able to be in harmony with these, you will experience big issues soon or later. Common Sense.
 
