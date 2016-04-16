@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Permaculture consists of words perma and culture. If you think it is only about gardening, let me show you how permaculture principles can help your business to thrive and make a life full of abundance not only for business owner, but also for employees.'
-datePublished: '2016-04-16T11:44:16.283Z'
-dateModified: '2016-04-16T11:42:30.660Z'
-title: Permaculture in business. Why?
+description: 'If you are not able to be in harmony with these, you will experience big issues soon or later. Common Sense.'
+datePublished: '2016-04-16T12:03:44.326Z'
+dateModified: '2016-04-16T11:53:37.510Z'
+title: 3 Principles of Permaculture for Business.
 author: []
 sourcePath: _posts/2016-04-16-earth-care.md
 published: true
@@ -22,10 +22,8 @@ url: earth-care/index.html
 _type: Article
 
 ---
-# Permaculture in business. Why?
+# 3 Principles of Permaculture for Business.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f062d061-ef77-423a-8051-280aae530f71.jpg)
-
-# 
 
 Permaculture consists of words _perma _and _culture_. If you think it is only about gardening, let me show you how permaculture principles can help your business to thrive and make a life full of abundance not only for business owner, but also for employees.
 
@@ -54,10 +52,12 @@ Fluctuation cost money and time on training and onboarding. No need to repeat th
 
 When weed grows in your garden, do not fight a battle you can not win (using ethical and reasonable resources), because it will not disappear until it will do the job - to cover naked mother Earth. Instead of useless fight, you can actually help the process, so there is no need for weed anymore and it comes away naturally. ![You can not beat something what wants to live.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbc2eb7b-7a6b-4c3e-b5ad-db0831a5649d.jpg)
 
-**How is this related to human resources management?** Simply put, your contacts are your resources, your army. Mother Earth calls weed to cover her against unwanted interactions and prepare ground for bigger plants. You are the employer who calls first employees to launch your business and then helps them to do their job and leave with good job done, while supporting your new employees on newly opened positions.  
-
 If you want your business kid to live, you will do everything for it.   
 Such as weed. Once the season come, they will disappear while leaving a good job done behind.
+
+> The purpose of work is to make the worker - whether a working stiff or a CEO - feel good about life. 
+> 
+> Ricardo Semler
 
 ## Fair Share
 
