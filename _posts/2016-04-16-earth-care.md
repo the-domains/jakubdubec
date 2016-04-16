@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Permaculture consists of words perma and culture. If you think it is only about gardening, let me show you how permaculture principles can help your business to thrive and make a life full of abundance not only for business owner, but also for employees.'
-datePublished: '2016-04-16T11:42:24.342Z'
-dateModified: '2016-04-16T11:42:04.395Z'
+datePublished: '2016-04-16T11:44:16.283Z'
+dateModified: '2016-04-16T11:42:30.660Z'
 title: Permaculture in business. Why?
 author: []
 sourcePath: _posts/2016-04-16-earth-care.md
